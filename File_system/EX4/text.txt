@@ -1,0 +1,1 @@
+ test flag O_APPEND  test flag O_APPEND
